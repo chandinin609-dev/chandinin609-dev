@@ -1,16 +1,33 @@
-## Hi there 👋
+💫 About Me:
+“I am Chandini ,a final year Computer Science & Engineering student driven by a simple philosophy: software should solve real-world human problems, not just pass academic test cases. My focus lies at the intersection of Full-Stack Development and Applied Artificial Intelligence.
 
-<!--
-**chandinin609-dev/chandinin609-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently, I am engineering three high-impact platforms:
 
-Here are some ideas to get you started:
+VOICE: An AI-powered emergency response ecosystem utilizing low-latency background processing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+MindSense AI: An intelligent, data-driven emotional and mental wellness platform.
+
+HealthMatrix: A scalable, full-stack hospital management system designed for operational efficiency.
+
+I am passionate about writing clean, maintainable code, architecting scalable systems, and continuously expanding my technical toolkit. My goal is to transition into a Full-Time Software Engineering role where I can build products that deliver tangible, positive real-world impact.”
+
+🌐 Socials:
+Instagram [LinkedIn](https://linkedin.com/in/Chandini N) [Mastodon](https://mastodon.social/@Chandini N) email
+
+💻 Tech Stack:
+Java JavaScript HTML5 AWS Azure Oracle Apache Apache Tomcat Apache Maven MongoDB MySQL Hibernate Canva Pandas GitHub Testing-Library Cisco Meta Kubernetes Postman
+
+📊 GitHub Stats:
+
+
+
+
+
+
+🏆 GitHub Trophies
+
+
+✍️ Random Dev Quote
+
+
+🔝 Top Contributed Repo
