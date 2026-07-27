@@ -1,4 +1,3 @@
-
 💫 About Me:
 “I am Chandini ,a final year Computer Science & Engineering student driven by a simple philosophy: software should solve real-world human problems, not just pass academic test cases. My focus lies at the intersection of Full-Stack Development and Applied Artificial Intelligence.
 
