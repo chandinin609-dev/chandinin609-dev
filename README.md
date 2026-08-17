@@ -1,79 +1,34 @@
-<h1 align="center">Chandini</h1>
-<h3 align="center">Java Developer · Spring Boot · Full-Stack Development</h3>
 
-<p align="center">
-Final-year B.Tech CSE student building practical backend and full-stack systems with Java, Spring Boot, and modern web technologies — with a growing focus on scalable architecture and applied AI.
-</p>
+💫 About Me:
+“I am Chandini ,a final year Computer Science & Engineering student driven by a simple philosophy: software should solve real-world human problems, not just pass academic test cases. My focus lies at the intersection of Full-Stack Development and Applied Artificial Intelligence.
 
-<p align="center">
-<a href="https://linkedin.com/in/your-linkedin-handle">LinkedIn</a> ·
-<a href="https://github.com/chandinin609-dev">GitHub</a> ·
-<a href="mailto:your-email@example.com">Email</a>
-</p>
+Currently, I am engineering three high-impact platforms:
 
----
+VOICE: An AI-powered emergency response ecosystem utilizing low-latency background processing.
 
-### Current Focus
+MindSense AI: An intelligent, data-driven emotional and mental wellness platform.
 
-- Backend development with Java & Spring Boot
-- REST API design and implementation
-- Relational and NoSQL database development (MySQL, MongoDB)
-- Full-stack web application development
-- Data structures, algorithms, and problem solving
-- Applied AI in practical software systems
+HealthMatrix: A scalable, full-stack hospital management system designed for operational efficiency.
 
----
+I am passionate about writing clean, maintainable code, architecting scalable systems, and continuously expanding my technical toolkit. My goal is to transition into a Full-Time Software Engineering role where I can build products that deliver tangible, positive real-world impact.”
 
-### Tech Stack
+🌐 Socials:
+Instagram [LinkedIn](www.linkedin.com/in/chandini111111).
 
-**Languages:** Java · JavaScript · SQL
+💻 Tech Stack:
+Java JavaScript HTML5 AWS Azure Oracle Apache Apache Tomcat Apache Maven MongoDB MySQL Hibernate Canva Pandas GitHub Testing-Library Cisco Meta Kubernetes Postman
 
-**Backend:** Spring Boot · Hibernate · REST APIs · Apache Tomcat
-
-**Frontend:** React · HTML · CSS · JavaScript
-
-**Databases:** MySQL · MongoDB · Oracle
-
-**Tools & Platforms:** Git · GitHub · Maven · Postman
-
----
-
-### Featured Projects
-
-**VOICE**
-An emergency response system focused on low-latency background processing for time-critical alerts.
-`Backend Architecture` · `Asynchronous Processing` · `API Design`
-[Repository](#) 
-
-**MindSense AI**
-A data-driven platform for tracking and understanding emotional and mental wellness patterns.
-`Full-Stack Development` · `Data-Driven Features` · `REST APIs`
-[Repository](#)
-
-**HealthMatrix**
-A full-stack hospital management system built for operational efficiency across patient, staff, and resource workflows.
-`Database Design` · `Modular Development` · `Scalability`
-[Repository](#)
+📊 GitHub Stats:
 
 
 
----
 
-### Engineering Interests
 
-Backend Engineering · Full-Stack Development · RESTful APIs · Database Design · Scalable Systems · Applied AI · Problem Solving
 
----
+🏆 GitHub Trophies
 
-### GitHub Activity
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=chandinin609-dev&show_icons=true&theme=default&hide_title=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandinin609-dev&layout=compact&hide_title=true" height="165" alt="Top languages" />
-</p>
+✍️ Random Dev Quote
 
----
 
-### Connect
-
-[LinkedIn](https://linkedin.com/in/your-linkedin-handle) · [GitHub](https://github.com/chandinin609-dev)
+🔝 Top Contributed Repo
