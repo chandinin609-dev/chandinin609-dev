@@ -55,7 +55,7 @@ A full-stack hospital management system built for operational efficiency across 
 `Database Design` · `Modular Development` · `Scalability`
 [Repository](#)
 
-> *Replace the `#` links above with your actual repository URLs.*
+
 
 ---
 
