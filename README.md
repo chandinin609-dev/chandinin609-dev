@@ -80,10 +80,9 @@ A modern Android weather app delivering real-time forecasts through a clean, nat
 
 ### GitHub Activity
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=chandinin609-dev&show_icons=true&theme=default&hide_title=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandinin609-dev&layout=compact&hide_title=true" height="165" alt="Top languages" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chandin609-dev&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chandin609-dev&layout=compact&theme=default)
 
 ---
 
