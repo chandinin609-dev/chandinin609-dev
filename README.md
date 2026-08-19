@@ -80,8 +80,6 @@ A modern Android weather app delivering real-time forecasts through a clean, nat
 
 ### GitHub Activity
 
-![GitHub Stats](https://ghstats.dev/api/card?username=chandin609-dev)
-
 ---
 
 ### Connect
