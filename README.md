@@ -77,11 +77,9 @@ A modern Android weather app delivering real-time forecasts through a clean, nat
 </table>
 
 ---
-
 ### GitHub Activity
 
 ---
-
 ### Connect
 
 [LinkedIn](https://linkedin.com/in/your-linkedin-handle) · [GitHub](https://github.com/chandinin609-dev)
