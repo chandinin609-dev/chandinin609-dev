@@ -126,57 +126,6 @@ A modern Android weather app delivering real-time forecasts through a clean, nat
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=chandinin609-dev&theme=github-compact&hide_border=true&bg_color=0D1117&color=6DB33F&line=ED8B00&point=ffffff" width="100%"/>
 </p>
 
-<!-- 🐍 Animated snake contribution graph — replaces the static graph above once set up.
-Setup (one-time, ~5 min):
-1. In this profile repo, create: .github/workflows/snake.yml
-2. Paste:
-   name: generate snake
-   on:
-     schedule:
-       - cron: "0 */6 * * *"
-     workflow_dispatch: {}
-     push:
-       branches: [ main ]
-   jobs:
-     generate:
-       permissions: { contents: write }
-       runs-on: ubuntu-latest
-       steps:
-         - uses: Platane/snk@v3
-           with:
-             github_user_name: chandinin609-dev
-             outputs: |
-               dist/github-contribution-grid-snake.svg
-               dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-         - uses: crazy-max/ghaction-github-pages@v4
-           with:
-             target_branch: output
-             build_dir: dist
-           env:
-             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-3. Push once manually to trigger it, then replace the <img> below with:
--->
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chandinin609-dev/chandinin609-dev/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chandinin609-dev/chandinin609-dev/output/github-contribution-grid-snake.svg" />
-  <img alt="snake contribution graph" src="https://raw.githubusercontent.com/chandinin609-dev/chandinin609-dev/output/github-contribution-grid-snake.svg" width="100%"/>
-</picture>
-</p>
-
----
-
-### 🎯 WakaTime — Weekly Coding Activity
-
-<!--
-Requires a free WakaTime account + the wakatime-badge repo secret setup.
-Once connected, this shows hours-per-language for the last 7 days — a strong
-signal for recruiters that coding is an active habit, not just class projects.
--->
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=your-wakatime-username&theme=dark&hide_border=true&bg_color=0D1117&title_color=6DB33F&text_color=c9d1d9&layout=compact" />
-</p>
-
 ---
 
 ### 🤝 Connect With Me
