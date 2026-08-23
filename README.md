@@ -97,16 +97,19 @@ A modern Android weather app delivering real-time forecasts through a clean, nat
 ### 📊 GitHub Analytics
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=chandinin609-dev&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=6DB33F&icon_color=ED8B00&text_color=c9d1d9&count_private=true&include_all_commits=true" />
-<img height="165" src="https://streak-stats.demolab.com/?user=chandinin609-dev&theme=dark&hide_border=true&background=0D1117&ring=6DB33F&fire=ED8B00&currStreakLabel=6DB33F" />
+<img src="https://img.shields.io/github/followers/chandinin609-dev?label=Followers&style=for-the-badge&color=6DB33F&logo=github" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/chandinin609-dev&label=Public%20Repos&query=$.public_repos&style=for-the-badge&color=ED8B00&logo=github" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandinin609-dev&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=6DB33F&text_color=c9d1d9&langs_count=8&exclude_repo=nestly-realestate" />
+<img src="https://img.shields.io/github/stars/chandinin609-dev/nestly-realestate?label=nestly-realestate%20★&style=for-the-badge&color=6DB33F" />
+<img src="https://img.shields.io/github/stars/chandinin609-dev/Skyline-Weather?label=Skyline-Weather%20★&style=for-the-badge&color=ED8B00" />
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=chandinin609-dev&theme=dracula&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8&row=2" />
+<img src="https://img.shields.io/github/last-commit/chandinin609-dev/nestly-realestate?label=nestly-realestate%20last%20commit&style=flat-square&color=6DB33F" />
+<br/>
+<img src="https://img.shields.io/github/last-commit/chandinin609-dev/Skyline-Weather?label=Skyline-Weather%20last%20commit&style=flat-square&color=ED8B00" />
 </p>
 
 <div align="center">
