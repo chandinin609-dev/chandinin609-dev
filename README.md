@@ -102,8 +102,8 @@ A modern Android weather app delivering real-time forecasts through a clean, nat
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/github/stars/chandinin609-dev/nestly-realestate?label=nestly-realestate%20★&style=for-the-badge&color=6DB33F" />
-<img src="https://img.shields.io/github/stars/chandinin609-dev/Skyline-Weather?label=Skyline-Weather%20★&style=for-the-badge&color=ED8B00" />
+<img src="https://img.shields.io/github/stars/chandinin609-dev/nestly-realestate?label=nestly-realestate%20stars&style=for-the-badge&color=6DB33F" />
+<img src="https://img.shields.io/github/stars/chandinin609-dev/Skyline-Weather?label=Skyline-Weather%20stars&style=for-the-badge&color=ED8B00" />
 </p>
 
 <p align="center">
