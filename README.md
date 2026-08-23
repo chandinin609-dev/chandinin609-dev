@@ -98,7 +98,7 @@ A modern Android weather app delivering real-time forecasts through a clean, nat
 
 <p align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=chandinin609-dev&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=6DB33F&icon_color=ED8B00&text_color=c9d1d9&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=chandinin609-dev&theme=dark&hide_border=true&background=0D1117&ring=6DB33F&fire=ED8B00&currStreakLabel=6DB33F" />
+<img height="165" src="https://streak-stats.demolab.com/?user=chandinin609-dev&theme=dark&hide_border=true&background=0D1117&ring=6DB33F&fire=ED8B00&currStreakLabel=6DB33F" />
 </p>
 
 <p align="center">
