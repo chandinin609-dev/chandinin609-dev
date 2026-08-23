@@ -1,139 +1,293 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:ED8B00&height=200&section=header&text=Hi%20There,%20I'm%20Chandini%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:F7941E&height=200&section=header&text=Nakka%20Chandini&fontSize=48&fontColor=E6EDF3&desc=Java%20Developer%20%7C%20Backend%20%26%20Full%20Stack%20Engineer&descSize=18&descColor=E6EDF3&animation=fadeIn" width="100%"/>
 
-<a href="https://linkedin.com/in/your-linkedin-handle">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6DB33F&center=true&vCenter=true&width=600&lines=Java+%2B+Spring+Boot+Backend+Developer;Full-Stack+Engineer+%7C+React+%2B+Node;Final-Year+B.Tech+CSE+Student;Building+Scalable+%2C+Practical+Systems" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&pause=1000&color=F7941E&background=0D1117&center=true&vCenter=true&width=700&lines=%24+whoami;%3E+Java+Developer+%7C+Backend+Engineer;%24+cat+tech_stack.txt;%3E+Java%2C+Spring+Boot%2C+REST+APIs%2C+MySQL;%24+.%2Fdeploy+VOICE.sh;%3E+Building+an+AI-powered+voice+emergency+assistant...;%24+status+--open-to;%3E+Backend+%2F+Full+Stack+Developer+roles" alt="Typing SVG" />
+
+![B.Tech CSE](https://img.shields.io/badge/B.Tech-CSE-F7941E?style=flat-square&labelColor=0D1117)
+![University](https://img.shields.io/badge/Mohan%20Babu%20University-2023--2027-F7941E?style=flat-square&labelColor=0D1117)
+![Location](https://img.shields.io/badge/Location-Visakhapatnam%2C%20India-F7941E?style=flat-square&labelColor=0D1117)
+
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=F7941E)](https://github.com/chandinin609-dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=F7941E)](https://linkedin.com/in/chandini111111)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F7941E)](mailto:chandinin609@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=F7941E)](https://leetcode.com/u/pqo78dEZPr/)
+
+![Profile Views](https://komarev.com/ghpvc/?username=chandinin609-dev&color=F7941E&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/chandinin609-dev?style=flat-square&color=F7941E&labelColor=0D1117)
+![Stars](https://img.shields.io/github/stars/chandinin609-dev?style=flat-square&color=F7941E&labelColor=0D1117)
 
 </div>
 
-<p align="center">
-Final-year B.Tech CSE student building practical backend and full-stack systems with Java, Spring Boot, and modern web technologies — with a growing focus on scalable architecture and applied AI.
-</p>
+---
 
-<p align="center">
-<a href="https://linkedin.com/in/your-linkedin-handle"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/chandinin609-dev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://leetcode.com/your-leetcode-handle"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-</p>
+### `$ cat about.md`
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=chandinin609-dev&style=for-the-badge&color=6DB33F" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/chandinin609-dev?style=for-the-badge&color=ED8B00" alt="Followers"/>
-</p>
+Backend-focused Java Developer with hands-on experience building REST APIs and full-stack applications using Java, Spring Boot, Servlets, and JDBC. Comfortable across both SQL (MySQL, Oracle) and NoSQL (MongoDB) systems through two internships and five independent projects, with a growing focus on AI-powered backend systems.
+
+```bash
+ROLE      : Java Developer
+EXPERIENCE: Fresher — 2 Internships (Java Full Stack, MERN Full Stack)
+DOMAIN    : Healthcare Tech, Safety & Emergency Systems, Web Applications
+STACK     : Java, Spring Boot, REST APIs, MySQL, MongoDB, JavaScript
+OPEN_TO   : Java Developer, Backend Developer, Full Stack Developer
+```
 
 ---
 
-### 🧭 Current Focus
-
-- 🔧 Backend development with **Java & Spring Boot**
-- 🌐 REST API design and implementation
-- 🗄️ Relational and NoSQL database development (MySQL, MongoDB)
-- 💻 Full-stack web and mobile application development
-- 🧩 Data structures, algorithms, and problem solving
-- 🎯 Actively applying for Java Full Stack Developer roles (fresher, 2027 batch)
-
----
-
-### 🛠️ Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,react,nodejs,mongodb,mysql,kotlin,git,github,postman,html,css,js,idea&theme=dark" />
-</p>
+### `$ ls tech-stack/`
 
 <div align="center">
 
-| Category | Technologies |
+![Skills](https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,git)
+![Skills](https://skillicons.dev/icons?i=mongodb,react,nodejs,express,kotlin,androidstudio,flask)
+![Skills](https://skillicons.dev/icons?i=github,vscode,idea,py)
+
+</div>
+
+---
+
+### `$ cat specialties.txt`
+
+<div align="center">
+
+![Backend](https://img.shields.io/badge/Backend%20Development-F7941E?style=flat-square&labelColor=0D1117&logo=springboot&logoColor=F7941E)
+![REST APIs](https://img.shields.io/badge/REST%20API%20Design-F7941E?style=flat-square&labelColor=0D1117)
+![AI](https://img.shields.io/badge/AI%20%2F%20Voice%20Powered%20Systems-F7941E?style=flat-square&labelColor=0D1117)
+![Database](https://img.shields.io/badge/Database%20Design-F7941E?style=flat-square&labelColor=0D1117&logo=mysql&logoColor=F7941E)
+
+</div>
+
+---
+
+### `$ cat expertise.md`
+
+<div align="center">
+
+| Domain | Proficiency | Details |
+|---|:---:|---|
+| Backend Development | ⭐⭐⭐⭐⭐ | Java, Spring Boot, Hibernate, REST APIs |
+| Full Stack Development | ⭐⭐⭐⭐ | Java/Spring Boot + HTML/CSS/JS + React/Angular |
+| Web Development | ⭐⭐⭐⭐ | Frontend + backend web applications |
+| Database / SQL | ⭐⭐⭐⭐ | MySQL, SQL, database management |
+| AI / Generative AI | ⭐⭐⭐ | VOICE, MindSense AI |
+| Android Development | ⭐⭐⭐ | Skyline Weather (Kotlin, Jetpack Compose) |
+
+</div>
+
+---
+
+### `$ ls featured-projects/`
+
+<details open>
+<summary><b>🏥 HealthMatrix — Smart Hospital Management System</b></summary>
+<br>
+
+Full-stack hospital management system supporting patient records, appointment scheduling, billing, and role-based administration, backed by a normalized MySQL schema for data integrity and query performance.
+
+| | |
 |---|---|
-| **Languages** | Java · JavaScript · Kotlin · SQL |
-| **Backend** | Spring Boot · Hibernate · REST APIs · Servlets · JDBC · Apache Tomcat |
-| **Frontend** | React · HTML · CSS · JavaScript |
-| **Databases** | MySQL · MongoDB · Oracle |
-| **Tools & Platforms** | Git · GitHub · Maven · Postman · IntelliJ IDEA |
+| **Stack** | Java, JSP, Servlets, JDBC, MySQL, HTML, CSS, JavaScript |
+| **Scale** | Multi-module full-stack system (patients, scheduling, billing, admin) |
+| **Impact** | Streamlined core hospital admin workflows end-to-end |
 
-</div>
+</details>
+
+<details>
+<summary><b>🧠 MindSense AI</b></summary>
+<br>
+
+AI-driven application with a Java/Spring Boot backend — contributed to backend development, REST API design, database integration, and overall application functionality.
+
+| | |
+|---|---|
+| **Stack** | Java, Spring Boot, REST APIs, MySQL, HTML/CSS/JavaScript |
+| **Scale** | Backend-driven AI application with full REST API layer |
+| **Impact** | End-to-end ownership of backend logic and data integration |
+
+</details>
+
+<details>
+<summary><b>🎙️ VoiceShield AI — Intelligent Emergency Safety System</b></summary>
+<br>
+
+Voice-activated Flask backend that detects emergency voice commands in real time, integrating OpenCV, Speech Recognition, and the Twilio API to share live location and dispatch automated SOS alerts.
+
+| | |
+|---|---|
+| **Stack** | Python, Flask, OpenCV, Speech Recognition, Twilio API, HTML, CSS, JavaScript |
+| **Scale** | Real-time voice detection + automated alert dispatch pipeline |
+| **Impact** | Automated emergency response without manual phone interaction |
+
+</details>
+
+<details>
+<summary><b>🚧 VOICE — AI-Powered Voice Emergency Assistant (Building Now)</b></summary>
+<br>
+
+An AI-powered voice-operated emergency assistance system that lets users trigger emergency alerts, share their location, and contact trusted people through voice commands when unable to interact with their phone manually.
+
+| | |
+|---|---|
+| **Stack** | In development |
+| **Scale** | Voice-command-driven emergency response system |
+| **Impact** | Currently being built |
+
+</details>
+
+<details>
+<summary><b>🌤️ Skyline Weather — Weather Forecast Application</b></summary>
+<br>
+
+Native Android weather app that fetches real-time weather data via REST API based on user location or manual city selection, with a clean Jetpack Compose interface.
+
+| | |
+|---|---|
+| **Stack** | Kotlin, Android Studio, REST API, JSON, XML/Jetpack Compose |
+| **Scale** | Native Android application |
+| **Impact** | Real-time weather lookup by location or manual search |
+
+</details>
 
 ---
 
-### 🚀 Featured Projects
+### `$ git log --experience`
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+**Full Stack MERN Developer Intern** — SmartBridge *(Online)*
+`Jun 2026 – Aug 2026`
+- Completed an intensive Full Stack Web Development program on the MERN stack through hands-on, project-based training
+- Designed and implemented RESTful APIs and performed CRUD operations against MongoDB
+- Integrated frontend and backend layers for seamless data flow, delivering responsive apps under project deadlines using agile practices
 
-#### 🏠 [nestly-realestate](https://github.com/chandinin609-dev/nestly-realestate)
+`MongoDB` `Express.js` `React.js` `Node.js` `REST APIs` `Agile`
 
-A full-stack property rental platform for listing, browsing, and managing real estate listings.
+**Full Stack Java Developer Intern** — Shivam Medisoft Services *(Offline)*
+`May 2026 – Aug 2026`
+- Engineered full-stack, backend-driven web applications using Java, JSP, Servlets, and MySQL with end-to-end CRUD operations
+- Designed and maintained backend logic for data-driven modules in a structured, production-style environment
+- Translated business requirements into responsive, reliable web application features
 
-**Focus:** Full-stack architecture · Responsive UI · Data modeling
-**Stack:** `React` `Node.js` `MongoDB`
-
-<img src="https://img.shields.io/github/languages/top/chandinin609-dev/nestly-realestate?style=flat-square&color=6DB33F" />
-<img src="https://img.shields.io/github/last-commit/chandinin609-dev/nestly-realestate?style=flat-square" />
-
-</td>
-<td width="50%" valign="top">
-
-#### ⛅ [Skyline-Weather](https://github.com/chandinin609-dev/Skyline-Weather)
-
-A modern Android weather app delivering real-time forecasts through a clean, native UI.
-
-**Focus:** Mobile architecture · API integration · Modern UI toolkit
-**Stack:** `Kotlin` `Jetpack Compose` `Weather API`
-
-<img src="https://img.shields.io/github/languages/top/chandinin609-dev/Skyline-Weather?style=flat-square&color=ED8B00" />
-<img src="https://img.shields.io/github/last-commit/chandinin609-dev/Skyline-Weather?style=flat-square" />
-
-</td>
-</tr>
-</table>
-
-<p align="center"><i>More projects on my <a href="https://github.com/chandinin609-dev?tab=repositories">pinned repositories →</a></i></p>
+`Java` `JSP` `Servlets` `MySQL` `CRUD` `Requirement Analysis`
 
 ---
 
-### 📊 GitHub Analytics
-
-<p align="center">
-<img src="https://img.shields.io/github/followers/chandinin609-dev?label=Followers&style=for-the-badge&color=6DB33F&logo=github" />
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fchandinin609-dev&label=Public%20Repos&query=%24.public_repos&style=for-the-badge&color=ED8B00&logo=github" />
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/github/stars/chandinin609-dev/nestly-realestate?label=nestly-realestate%20stars&style=for-the-badge&color=6DB33F" />
-<img src="https://img.shields.io/github/stars/chandinin609-dev/Skyline-Weather?label=Skyline-Weather%20stars&style=for-the-badge&color=ED8B00" />
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/github/last-commit/chandinin609-dev/nestly-realestate?label=nestly-realestate%20last%20commit&style=flat-square&color=6DB33F" />
-<br/>
-<img src="https://img.shields.io/github/last-commit/chandinin609-dev/Skyline-Weather?label=Skyline-Weather%20last%20commit&style=flat-square&color=ED8B00" />
-</p>
+### `$ cat achievements.md`
 
 <div align="center">
 
-![Metrics](https://metrics.lecoq.io/chandinin609-dev?template=classic&base.header=0&base.activity=0&isocalendar=1&isocalendar.duration=full-year&config.timezone=Asia%2FKolkata)
+| 🏆 Achievement | Detail |
+|---|---|
+| Academic Performance | CGPA 8.5 / 10 — B.Tech CSE |
+| Certification | Java Certification — Naresh IT |
+| Internships Completed | 2 (Java Full Stack + MERN Full Stack) |
+| Projects Built | 5 independent full-stack / AI / Android projects |
 
 </div>
 
 ---
 
-### 📈 Contribution Graph
+### `$ cat education.md`
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chandinin609-dev&theme=github-compact&hide_border=true&bg_color=0D1117&color=6DB33F&line=ED8B00&point=ffffff" width="100%"/>
-</p>
+<div align="center">
+
+[![Education](https://img.shields.io/badge/B.Tech%20CSE-Mohan%20Babu%20University-F7941E?style=for-the-badge&labelColor=0D1117)](#)
+
+</div>
 
 ---
 
-### 🤝 Connect With Me
+### `$ cat coding-profiles.md`
 
-<p align="center">
-<a href="https://linkedin.com/in/your-linkedin-handle"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/chandinin609-dev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ED8B00,100:6DB33F&height=100&section=footer" width="100%"/>
+[![LeetCode](https://img.shields.io/badge/LeetCode-pqo78dEZPr-F7941E?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0D1117)](https://leetcode.com/u/pqo78dEZPr/)
+
+</div>
+
+---
+
+### `$ ./analyze --github`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=chandinin609-dev&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=F7941E&icon_color=F7941E&text_color=E6EDF3" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandinin609-dev&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=F7941E&text_color=E6EDF3" />
+
+<img src="https://streak-stats.demolab.com/?user=chandinin609-dev&theme=transparent&hide_border=true&background=0D1117&ring=F7941E&fire=F7941E&currStreakLabel=F7941E&sideNums=E6EDF3&currStreakNum=E6EDF3&sideLabels=E6EDF3&dates=E6EDF3" />
+
+</div>
+
+---
+
+### `$ ./show --trophies`
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=chandinin609-dev&theme=flat&bg_color=0D1117&color=F7941E&column=7&margin-w=8&margin-h=8&no-frame=true)
+
+</div>
+
+---
+
+### `$ ./plot --activity`
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chandinin609-dev&bg_color=0D1117&color=F7941E&line=F7941E&point=E6EDF3&area=true&hide_border=true)
+
+</div>
+
+---
+
+### `$ ./summary --full`
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chandinin609-dev&theme=github_dark" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chandinin609-dev&theme=github_dark" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chandinin609-dev&theme=github_dark" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chandinin609-dev&theme=github_dark" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=chandinin609-dev&theme=github_dark" />
+
+</div>
+
+---
+
+### `$ ./watch --snake`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/chandinin609-dev/chandinin609-dev/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%"/>
+
+</div>
+
+---
+
+### `$ cat current-focus.yaml`
+
+```yaml
+current_focus:
+  learning: "Advanced Spring Boot, Hibernate & System Design"
+  building: "VOICE — AI-powered voice-operated emergency assistant"
+  exploring: "AI/voice integration in backend systems (MindSense AI)"
+  open_to: "Java Developer, Backend Developer, Full Stack Developer"
+```
+
+---
+
+### `$ ./connect --with-me`
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=F7941E)](https://github.com/chandinin609-dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=F7941E)](https://linkedin.com/in/chandini111111)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F7941E)](mailto:chandinin609@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=F7941E)](https://leetcode.com/u/pqo78dEZPr/)
+
+*"Code the solution before you speak the problem."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:F7941E&height=120&section=footer" width="100%"/>
+
+</div>
