@@ -98,7 +98,7 @@ A modern Android weather app delivering real-time forecasts through a clean, nat
 
 <p align="center">
 <img src="https://img.shields.io/github/followers/chandinin609-dev?label=Followers&style=for-the-badge&color=6DB33F&logo=github" />
-<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/chandinin609-dev&label=Public%20Repos&query=$.public_repos&style=for-the-badge&color=ED8B00&logo=github" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fchandinin609-dev&label=Public%20Repos&query=%24.public_repos&style=for-the-badge&color=ED8B00&logo=github" />
 </p>
 
 <p align="center">
