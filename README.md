@@ -125,9 +125,7 @@ A modern Android weather app delivering real-time forecasts through a clean, nat
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=chandinin609-dev&theme=github-compact&hide_border=true&bg_color=0D1117&color=6DB33F&line=ED8B00&point=ffffff" width="100%"/>
 </p>
-
 ---
-
 ### 🤝 Connect With Me
 
 <p align="center">
