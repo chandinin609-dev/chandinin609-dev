@@ -54,9 +54,7 @@ Final-year B.Tech CSE student building practical backend and full-stack systems 
 | **Tools & Platforms** | Git · GitHub · Maven · Postman · IntelliJ IDEA |
 
 </div>
-
 ---
-
 ### 🚀 Featured Projects
 
 <table width="100%">
@@ -119,7 +117,6 @@ A modern Android weather app delivering real-time forecasts through a clean, nat
 </div>
 
 ---
-
 ### 📈 Contribution Graph
 
 <p align="center">
