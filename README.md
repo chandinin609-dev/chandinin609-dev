@@ -7,7 +7,6 @@
 </a>
 
 </div>
-
 <p align="center">
 Final-year B.Tech CSE student building practical backend and full-stack systems with Java, Spring Boot, and modern web technologies — with a growing focus on scalable architecture and applied AI.
 </p>
